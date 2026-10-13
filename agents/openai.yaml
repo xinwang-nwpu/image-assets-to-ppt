@@ -1,0 +1,4 @@
+interface:
+  display_name: "图片重绘为PPT与素材库"
+  short_description: "图片图标逐个高清重绘并保留透明PNG素材，再重建可编辑PPT"
+  default_prompt: "使用 $image-assets-to-ppt 将这张图片中的图标提取重绘为高清透明PNG，保留可复用素材库，并按原图重建可编辑PPT。"
